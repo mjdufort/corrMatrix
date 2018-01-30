@@ -1,0 +1,12 @@
+Package: corrMatrix
+Title: Correlation matrix functions for gene expression and other data
+Version: 0.0.0.9001
+Authors@R: person("Matthew", "Dufort", email = "matt.dufort@gmail.com", role = c("aut", "cre"))
+Description: This package provides functions for generating matrices of full
+    and partial correlations, and calculating and extracting statistics from those
+    correlation matrices.
+Depends:
+    R (>= 3.2.2)
+License: GPL-3
+LazyData: true
+RoxygenNote: 6.0.1
